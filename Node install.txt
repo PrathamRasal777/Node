@@ -1,0 +1,3 @@
+Create a folder and open cmd through it
+npm install express
+npm install -g nodemon --save-dev
